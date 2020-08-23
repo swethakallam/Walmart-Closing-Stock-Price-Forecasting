@@ -19,4 +19,4 @@ We used Random Forest Regressor for predicting earnings per share and training m
 
 Using K Means Clustering, we classified 2 companies F and VZ that might go bankrupt in near future, using features like Total Assets, Gross Profit, Net Income, Total Equity, Long Term Debt.
 
-![Poster](/Users/apple/Desktop/Screen\ Shot\ 2020-08-23\ at\ 10.28.24\ AM.png)
+![Poster](/Users/apple/Desktop/poster.png)
